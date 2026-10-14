@@ -1,0 +1,38 @@
+name: habitosja
+description: "App de controle de hábitos HabitosJa"
+publish_to: 'none'
+
+version: 1.0.1+9
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Notificações e Alarmes Exatos
+  flutter_local_notifications: ^17.2.1
+  timezone: ^0.9.4
+
+  # Pagamentos e Assinaturas Google Play
+  in_app_purchase: ^3.2.0
+
+  # Anúncios Unity LevelPlay
+  unity_levelplay_mediation: ^9.1.0
+
+  # Armazenamento e Links
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.3.0
+
+  # Firebase Core
+  firebase_core: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

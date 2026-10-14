@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155855769355",
+    "project_id": "habitoja-app",
+    "storage_bucket": "habitoja-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155855769355:android:d0852a6e8af9c0c34ddc0e",
+        "android_client_info": {
+          "package_name": "com.djst.habitosja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGMLav0SNAYyH6e3NQtrjMXBr0HYUVbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
